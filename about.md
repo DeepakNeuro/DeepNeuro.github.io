@@ -3,10 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-HI I am Deepak Raya
+Hi I am Aditi Bhat
 
-
-This is my protfolio
+I am an undergrad in biotech with a diverse experince in biology and tech
 
 
 [My github repos]: https://github.com/link
